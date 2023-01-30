@@ -50,18 +50,19 @@ To ensure an optimal user experience and prevent subscriber churn, it is essenti
 ├── README.md
 ├── Dataset 
 │   ├── NETFLIX MOVIES AND TV SHOWS CLUSTERING.csv
+├── Problem Statement
 │
+├── Understanding Data
 │
 ├── EDA
 │   ├── Numeric & Categoric features
 │   ├── Univariate Analysis
 │   ├── Bivariate Analysis
 │   ├── Multivariate Analysis
-│   ├── Data Cleaning
-│       ├── Duplicated values
-│       ├── NaN/Missing values
-│       ├── Treating Skewness
-│       ├── Treating Outlier 
+├──Data Cleaning
+│   ├── Duplicated values
+│   ├── NaN/Missing values
+│   ├── Treating Outlier 
 │
 ├── Textual Data Preprocessing
 │   ├── Clustering Attributes
@@ -82,7 +83,7 @@ To ensure an optimal user experience and prevent subscriber churn, it is essenti
 |           ├── Silhoutte Score Analysis
 |       ├── Agglomerative Hierarchical Clustering
 |           ├── Dendogram
-|   ├── Content Based Recommendation System
+├── Content Based Recommendation System
 |
 │   
 ├── Report
