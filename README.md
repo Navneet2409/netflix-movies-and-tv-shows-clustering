@@ -28,7 +28,7 @@ To ensure an optimal user experience and prevent subscriber churn, it is essenti
   
   
 ## Data Pipeline
-  1. Know YOur Data:
+  1. Know Your Data:
        The first step in this project was to examine the various features of the dataset, understand the structure of the data and identify any patterns or trends. 
        We looked at the shape of the data, the data types of each feature, and a statistical summary.
   2. Exploratory Data Analysis:
