@@ -105,7 +105,7 @@ In this project, we tackled a text clustering problem in which we had to categor
     - 10000 attributes in total were created by TFIDF vectorization.
     - The problem of dimensionality was dealt with through the use of Principal Component Analysis (PCA). Because 3000 components were able to account for more than 
     80% of the variance, the total number of components was limited to 3000.
-    - Utilizing the K-Means Clustering algorithm, we first constructed clusters, and the optimal number of clusters was determined to be 5. The elbow method and 
+    - Utilizing the K-Means Clustering algorithm, we first constructed clusters, and the optimal number of clusters was determined to be 6. The elbow method and 
     Silhouette score analysis were used to get this.
     - The Agglomerative clustering algorithm was then used to create clusters, and the optimal number of clusters was determined to be 7. This was obtained after 
     visualizing the dendrogram.
